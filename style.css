@@ -1,0 +1,29 @@
+html{
+	 background: url(pic.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 500px;
+}
+.btn {
+	font-weight: 700;
+	border-radius: 700px;
+	padding: 1rem 2rem;
+	text-transform: uppercase;
+}
+hr{
+	border-color:orange;
+	border-width: 3px; 
+}
+.buffer{
+	height: 50px;
+}
+.btn-primary{
+	background: orange;
+	border-color: orange;
+}
+.btn-primary:hover{
+	background-color: darkblue;
+	border-color: darkblue;
+	border-width: 3px;
+}
